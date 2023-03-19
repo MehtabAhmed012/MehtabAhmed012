@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MehtabAhmed012
+- 👋 Hi, I’m Mehtab Ahmed
 - 👀 I’m interested in hacking and automation
-- 🌱 I’m currently learning automation and Aritifcal Intellgent
+- 🌱 I’m currently learning automation and Aritifcal Intellgent for Pak-Aust 
 - 💞️ I’m looking to collaborate on Hacking and Termux tools
 - 📫 How to reach me using Email and contact on Whatsapp (+9231-2054-3629)
 
